@@ -3,6 +3,10 @@ using System.Collections;
 
 public class Okolina : MonoBehaviour {
 
+
+    string a = "test";
+    string b = "test";
+
 	// Use this for initialization
 	void Start () {
 	
